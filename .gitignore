@@ -1,0 +1,86 @@
+# OS & SYSTEM FILES
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# EDITORS / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ENVIRONMENT VARIABLES
+.env
+.env.*
+!.env.example
+
+# PYTHON (BACKEND)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# FASTAPI / APP
+*.sqlite3
+*.db
+
+# MACHINE LEARNING / AI
+artifacts/
+models/
+checkpoints/
+*.h5
+*.pt
+*.pth
+*.joblib
+*.pkl
+*.onnx
+
+# HuggingFace / Transformers cache
+.cache/
+huggingface/
+transformers/
+
+# VECTOR DATABASES
+chroma/
+chroma_db/
+*.parquet
+
+# MONGODB LOCAL FILES (if any)
+*.bson
+*.json
+
+# NODE / FRONTEND (REACT + VITE)
+node_modules/
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TEST / COVERAGE
+coverage/
+htmlcov/
+.pytest_cache/
+
+# TEMP FILES
+*.tmp
+*.temp
