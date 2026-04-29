@@ -374,7 +374,7 @@ POST /api/v1/analyze
 # 👨‍💻 Author
 
 **Rohith Ganesh Adigopula**
-Systems Engineer @ TCS
+Systems Engineer
 AI | Backend | Cloud | GenAI
 
 ---
