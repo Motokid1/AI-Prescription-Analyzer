@@ -15,7 +15,7 @@ torch
 
 pymupdf
 pillow
-paddlepaddle
 paddleocr
+paddlepaddle==3.3.0
 opencv-python
 numpy
