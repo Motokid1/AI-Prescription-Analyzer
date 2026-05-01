@@ -5,6 +5,7 @@ from app.config import get_settings
 from app.api.routes import router
 
 
+
 settings = get_settings()
 
 app = FastAPI(

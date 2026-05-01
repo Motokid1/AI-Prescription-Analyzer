@@ -2,6 +2,8 @@ import cv2
 import numpy as np
 from functools import lru_cache
 from paddleocr import PaddleOCR
+import os
+
 
 
 FAST_TEXT_MIN_LENGTH = 80
